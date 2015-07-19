@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Test>
+	<Case>
+		<Input>0</Input>
+		<Output>0</Output>
+	</Case>
+	
+	<Case>
+		<Input>2</Input>
+		<Output>2</Output>
+	</Case>
+	
+	<Case>
+		<Input>4</Input>
+		<Output>3</Output>
+	</Case>
+	
+	<Case>
+		<Input>-23</Input>
+		<Output>Illegal input</Output>
+	</Case>
+</Test>

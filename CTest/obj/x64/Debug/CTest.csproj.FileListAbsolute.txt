@@ -1,0 +1,5 @@
+d:\store\documents\visual studio 2013\Projects\CTest\CTest\bin\x64\Debug\CTest.exe
+d:\store\documents\visual studio 2013\Projects\CTest\CTest\bin\x64\Debug\CTest.pdb
+d:\store\documents\visual studio 2013\Projects\CTest\CTest\obj\x64\Debug\CTest.csprojResolveAssemblyReference.cache
+d:\store\documents\visual studio 2013\Projects\CTest\CTest\obj\x64\Debug\CTest.exe
+d:\store\documents\visual studio 2013\Projects\CTest\CTest\obj\x64\Debug\CTest.pdb

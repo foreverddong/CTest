@@ -1,0 +1,4 @@
+d:\store\documents\visual studio 2013\Projects\CTest\CTest\bin\Debug\CTest.exe
+d:\store\documents\visual studio 2013\Projects\CTest\CTest\bin\Debug\CTest.pdb
+d:\store\documents\visual studio 2013\Projects\CTest\CTest\obj\Debug\CTest.exe
+d:\store\documents\visual studio 2013\Projects\CTest\CTest\obj\Debug\CTest.pdb
